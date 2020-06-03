@@ -60,10 +60,10 @@ class MainActivity : AppCompatActivity() {
             showToast("Please enter Email id")
             return false
         } else if (pass == "") {
-            //showToast("Please enter Password")
+            showToast("Please enter Password")
             return false
         } else if (!isEmailValid(email)) {
-            //showToast("Enter valid Email id")
+            showToast("Enter valid Email id")
             return false
         }
 

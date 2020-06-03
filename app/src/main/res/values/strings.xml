@@ -1,3 +1,9 @@
 <resources>
-    <string name="app_name">UnitTestingSample</string>
+    <string name="app_name" translatable="false">UnitTestingSample</string>
+    <string name="tap_text">Select any language below :</string>
+    <string name="btn_en">English</string>
+    <string name="btn_ru">Russian</string>
+    <string name="btn_de">German</string>
+    <string name="btn_fr">French</string>
+    <string name="btn_hi">Hindi</string>
 </resources>
